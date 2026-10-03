@@ -66,4 +66,3 @@ I am currently preparing to contribute as an Android developer for a startup cre
 
 - GitHub: [@afridmobiledev](https://github.com/afridmobiledev)
 - Location: New York, NY
-- LinkedIn: Add your LinkedIn URL here
